@@ -26,6 +26,7 @@ body{
     width: 380px;
     height: 380px;
 }
+
 .image-section{
     
   display: flex;
@@ -43,8 +44,8 @@ width: 100px;
     margin-right: 525px;
 }
 .contactIcons{
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     border-radius: 10px;
 }
 
